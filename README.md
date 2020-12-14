@@ -7,7 +7,7 @@ Instructions to run:
    Use "python db_retrieve.py" on a command line to run this file <br />
 3) api.py, app.py, conn.py are the REST API python files. <br />
    Open a common prompt and type the followinf commands to run the program <br />
-   set FLASK_APP = api
+   set FLASK_APP = api<br />
    flask run
    
    To see the results to the APIs, POSTMAN can be used by entering the URL obtained from running step 3 commands into the POSTMAN 'GET' field 
